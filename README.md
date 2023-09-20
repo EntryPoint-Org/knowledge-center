@@ -2,6 +2,8 @@
 
 The Juniors 4 Juniors official data-sharing central sources document.
 
+<img src="https://www.techrepublic.com/wp-content/uploads/2023/03/Figure.B.DevOps-770x462.jpeg"></br>
+
 ---
 
 |                                                                  Subject                                                                  |                                                                                                                                   Description                                                                                                                                    |
