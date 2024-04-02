@@ -1,6 +1,6 @@
-# Juniors 4 Juniors
+# EntryPoint
 
-The Juniors 4 Juniors official data-sharing central sources document.
+The EntryPoint official data-sharing central sources document.
 
 <img src="https://www.techrepublic.com/wp-content/uploads/2023/03/Figure.B.DevOps-770x462.jpeg"></br>
 
