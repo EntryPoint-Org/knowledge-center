@@ -1,0 +1,33 @@
+$outputFile = "VSCode-Extensions-With-Urls.txt"
+
+if (Test-Path $outputFile) {
+    Clear-Content $outputFile
+} else {
+    New-Item $outputFile -ItemType File
+}
+
+$extensions = code --list-extensions
+
+foreach ($ext in $extensions) {
+    # Split the extension identifier to remove the author's name and only keep the extension name
+    $extensionName = $ext -split '\.', 2 | Select-Object -Last 1
+
+    $title = $extensionName -replace '-', ' ' -split ' ' | ForEach-Object { $_.Substring(0,1).ToUpper() + $_.Substring(1).ToLower() }
+    $title = $title -join ' '
+
+    $url = "https://marketplace.visualstudio.com/items?itemName=$ext"
+
+    Add-Content -Path $outputFile -Value "${title}`r`n${url}`r`n"
+}
+
+Write-Host "Export completed. Check the $outputFile file."
+
+
+
+
+# Change the execution policy if necessary to allow script execution, if not already set:
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+
+
+# Exectue the script:
+.\Export-VSCodeExtensions.ps1
