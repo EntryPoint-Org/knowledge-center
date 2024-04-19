@@ -9,7 +9,6 @@ if (Test-Path $outputFile) {
 $extensions = code --list-extensions
 
 foreach ($ext in $extensions) {
-    # Split the extension identifier to remove the author's name and only keep the extension name
     $extensionName = $ext -split '\.', 2 | Select-Object -Last 1
 
     $title = $extensionName -replace '-', ' ' -split ' ' | ForEach-Object { $_.Substring(0,1).ToUpper() + $_.Substring(1).ToLower() }

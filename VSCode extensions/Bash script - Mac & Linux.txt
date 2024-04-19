@@ -1,36 +1,27 @@
 #!/bin/bash
 
-# Define the output file path
 outputFile="VSCode-Extensions-With-Urls.txt"
 
-# Ensure the file is empty or create a new one
 if [ -f "$outputFile" ]; then
     > $outputFile
 else
     touch $outputFile
 fi
 
-# Fetch the list of installed extensions
 extensions=$(code --list-extensions)
 
-# Process each extension to format the output
 for ext in $extensions; do
-    # Split the extension identifier to remove the author's name and only keep the extension name
     extensionName=${ext#*.}
 
-    # Approximate the title by replacing dashes and capitalizing words
     title=$(echo $extensionName | sed -e 's/-/ /g' | awk '{for (i=1; i<=NF; i++) $i=toupper(substr($i,1,1)) tolower(substr($i,2));}1')
 
-    # Construct the URL
     url="https://marketplace.visualstudio.com/items?itemName=$ext"
 
-    # Write formatted output to the file
     echo "$title" >> $outputFile
     echo "$url" >> $outputFile
     echo "" >> $outputFile
 done
 
-# Notify user of completion
 echo "Export completed. Check the $outputFile file."
 
 
