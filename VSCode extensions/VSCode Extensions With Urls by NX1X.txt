@@ -1,0 +1,267 @@
+All the VScode extensions I use, recommened for junior DevOps engineers
+Powershell ad Bash scripts I used to export this list in an additional filesץ
+To save & sync your current and future extensions, settings, etc' it is highly recommened to connect your GitHub account to VSCode.
+
+Terraform
+https://marketplace.visualstudio.com/items?itemName=4ops.terraform
+
+Bookmarks
+https://marketplace.visualstudio.com/items?itemName=alefragnani.bookmarks
+
+Project Manager
+https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager
+
+Aws Toolkit Vscode
+https://marketplace.visualstudio.com/items?itemName=amazonwebservices.aws-toolkit-vscode
+
+Vscode Django
+https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django
+
+Multi Cursor Case Preserve
+https://marketplace.visualstudio.com/items?itemName=cardinal90.multi-cursor-case-preserve
+
+Npm Intellisense
+https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense
+
+Codeium
+https://marketplace.visualstudio.com/items?itemName=codeium.codeium
+
+Gitignore
+https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore
+
+Codium
+https://marketplace.visualstudio.com/items?itemName=codium.codium
+
+Git Extension Pack
+https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack
+
+Githistory
+https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
+
+Python Environment Manager
+https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager
+
+Python Extension Pack
+https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack
+
+Gitlens
+https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+
+Prettier Vscode
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+Restore Terminals
+https://marketplace.visualstudio.com/items?itemName=ethansk.restore-terminals
+
+Git Project Manager
+https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager
+
+Code Runner
+https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+
+Codespaces
+https://marketplace.visualstudio.com/items?itemName=github.codespaces
+
+Vscode Pull Request Github
+https://marketplace.visualstudio.com/items?itemName=github.vscode-pull-request-github
+
+Todo Tree
+https://marketplace.visualstudio.com/items?itemName=gruntfuggly.todo-tree
+
+Terraform
+https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform
+
+Vscode Drawio
+https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
+
+Rest Client
+https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+
+Vscode Peacock
+https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock
+
+Ldif
+https://marketplace.visualstudio.com/items?itemName=jtavin.ldif
+
+Vsc Python Indent
+https://marketplace.visualstudio.com/items?itemName=kevinrose.vsc-python-indent
+
+Kubernetes Templates
+https://marketplace.visualstudio.com/items?itemName=lunuan.kubernetes-templates
+
+Aws Cli Configure
+https://marketplace.visualstudio.com/items?itemName=mark-tucker.aws-cli-configure
+
+Regexsnippets
+https://marketplace.visualstudio.com/items?itemName=monish.regexsnippets
+
+Azure Dev
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.azure-dev
+
+Vscode Azureappservice
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice
+
+Vscode Azurecontainerapps
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurecontainerapps
+
+Vscode Azurefunctions
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions
+
+Vscode Azureresourcegroups
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups
+
+Vscode Azurestaticwebapps
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps
+
+Vscode Azurestorage
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage
+
+Vscode Azureterraform
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureterraform
+
+Vscode Azurevirtualmachines
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines
+
+Vscode Cosmosdb
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb
+
+Vscode Docker
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
+
+Vscode Kubernetes Tools
+https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools
+
+Debugpy
+https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy
+
+Isort
+https://marketplace.visualstudio.com/items?itemName=ms-python.isort
+
+Python
+https://marketplace.visualstudio.com/items?itemName=ms-python.python
+
+Vscode Pylance
+https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
+
+Jupyter
+https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
+
+Jupyter Keymap
+https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap
+
+Jupyter Renderers
+https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers
+
+Vscode Jupyter Cell Tags
+https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags
+
+Vscode Jupyter Slideshow
+https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow
+
+Remote Containers
+https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
+
+Remote Ssh
+https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh
+
+Remote Ssh Edit
+https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit
+
+Remote Wsl
+https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
+
+Azure Account
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account
+
+Powershell
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.powershell
+
+Remote Explorer
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer
+
+Vscode Node Azure Pack
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack
+
+Aws S3 Vscode Extension
+https://marketplace.visualstudio.com/items?itemName=necatiarslan.aws-s3-vscode-extension
+
+Autodocstring
+https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring
+
+Docthis
+https://marketplace.visualstudio.com/items?itemName=oouo-diogo-perdigao.docthis
+
+Terraform Advanced Syntax Highlighting
+https://marketplace.visualstudio.com/items?itemName=pjmiravalle.terraform-advanced-syntax-highlighting
+
+Polacode
+https://marketplace.visualstudio.com/items?itemName=pnp.polacode
+
+Postman For Vscode
+https://marketplace.visualstudio.com/items?itemName=postman.postman-for-vscode
+
+Pulumi Lsp Client
+https://marketplace.visualstudio.com/items?itemName=pulumi.pulumi-lsp-client
+
+Java
+https://marketplace.visualstudio.com/items?itemName=redhat.java
+
+Vscode Yaml
+https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
+
+Liveserver
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.liveserver
+
+Terraform Doc Snippets
+https://marketplace.visualstudio.com/items?itemName=run-at-scale.terraform-doc-snippets
+
+Snyk Vulnerability Scanner
+https://marketplace.visualstudio.com/items?itemName=snyk-security.snyk-vulnerability-scanner
+
+Code Spell Checker
+https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+
+Logos Vscode
+https://marketplace.visualstudio.com/items?itemName=tale.logos-vscode
+
+Intellicode Api Usage Examples
+https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.intellicode-api-usage-examples
+
+Vscodeintellicode
+https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode
+
+Vscode Java Debug
+https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug
+
+Vscode Java Dependency
+https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency
+
+Vscode Java Pack
+https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
+
+Vscode Java Test
+https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test
+
+Vscode Maven
+https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven
+
+Vscode Aws Console
+https://marketplace.visualstudio.com/items?itemName=vscode-aws-console.vscode-aws-console
+
+Console Ninja
+https://marketplace.visualstudio.com/items?itemName=wallabyjs.console-ninja
+
+Quokka Vscode
+https://marketplace.visualstudio.com/items?itemName=wallabyjs.quokka-vscode
+
+Jinja
+https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja
+
+Javascriptsnippets
+https://marketplace.visualstudio.com/items?itemName=xabikos.javascriptsnippets
+
+Json
+https://marketplace.visualstudio.com/items?itemName=zainchen.json
+
+Vscode Open In Github
+https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github
